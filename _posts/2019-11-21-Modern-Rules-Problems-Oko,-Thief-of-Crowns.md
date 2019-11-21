@@ -83,7 +83,8 @@ The ability printed on Magus of the Moon is dealt with in Layer 4. It changes th
 ### What happens to Tarmogoyf if I use Oko’s +1 on it?
 
 <p float="left">
-  <img src="https://img.scryfall.com/cards/large/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1562931701" width="25%" height="25%">                                                                                                           <img src="https://img.scryfall.com/cards/large/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1574073631" width="25%" height="25%" />
+  <img src="https://img.scryfall.com/cards/large/front/b/6/b6876d9e-0908-43ac-8542-09c7aa02b5ba.jpg?1562931701" width="25%" height="25%">                                                                                                           
+  <img src="https://img.scryfall.com/cards/large/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1574073631" width="25%" height="25%" />
 </p>
 
 Answer: It will be a green 3/3 Creature - Elk named “Tarmogoyf” with no abilities.
@@ -129,7 +130,7 @@ Explanation: Unlike the previous answer, returning the spell taken with Spell Qu
 ### Does Mox Amber tap for mana if I +1 Oko on their only Legendary permanent??
 
 <p float="left">
-  <img src="https://img.scryfall.com/cards/large/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1562736914" width="22% height="22" />
+  <img src="https://img.scryfall.com/cards/large/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1562736914" width="22%" height="22" />
   <img src="https://img.scryfall.com/cards/large/front/c/2/c2462fdf-a594-47d0-8e10-b55901e350d9.jpg?1572300417" width="22%" height="22%" /> 
   <img src="https://img.scryfall.com/cards/large/front/f/4/f480df6d-e227-4ccb-ad6d-a4ad48a360ad.jpg?1562201599" width="22%" height="22%" />                                                                                                               <img src="https://img.scryfall.com/cards/large/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1574073631" width="22%" height="22%" />
 </p>
