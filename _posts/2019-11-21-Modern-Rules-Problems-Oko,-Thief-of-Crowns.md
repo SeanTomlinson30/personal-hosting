@@ -3,9 +3,15 @@ layout: post
 title: Modern Rules Problems – Oko, Thief of Crowns
 ---
 
-All things weirds with Okom Theif of Crowns in Modern
+All things weirds with Oko, Thief of Crowns in Modern
 
 Sean Tomlinson - L1 Judge
+
+{:class="table table-bordered"}
+| Tex Space     | Blue Space        | Lambda            |
+|-------------- |----------------   |------------------ |
+| sXYZ          | sBlue             | sXYZ abcde fghy   |
+| Jaobe XTZ     | Blue Game 5.2     | 5.2               |
 
 Oko, Thief of Crowns is a very interesting card with a lot of complexity hidden within its rules text. This article will explore the strange and interesting interactions relating to Oko which may not be obvious at first glance. The overall aim of the article is not to have you memorise all interactions, but to give a general awareness of the domains in which Oko applies in strange ways, so that when you get called to a live situation involving Oko, you don’t stray into a trap. 
 
