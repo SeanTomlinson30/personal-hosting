@@ -7,13 +7,6 @@ All things weirds with Oko, Thief of Crowns in Modern
 
 Sean Tomlinson - L1 Judge
 
-{:class="table table-bordered"}
-    | Tex Space    	| Blue Space     	| Lambda           	|
-    |--------------	|----------------	|------------------	|
-    | sXYZ         	| sBlue          	| sXYZ abcde fghy 	|
-    | Jaobe XTZ    	| Blue Game 5.2 	| 5.2              	|
-
-
 Oko, Thief of Crowns is a very interesting card with a lot of complexity hidden within its rules text. This article will explore the strange and interesting interactions relating to Oko which may not be obvious at first glance. The overall aim of the article is not to have you memorise all interactions, but to give a general awareness of the domains in which Oko applies in strange ways, so that when you get called to a live situation involving Oko, you don’t stray into a trap. 
 
 For ease of skimming and general reading, I’ll pose each vignette in the format of interaction, answer and explanation. Some of these explanations are long and complicated, and I want to avoid the answer being lost or difficult to find.
@@ -137,7 +130,7 @@ Explanation: Unlike the previous answer, returning the spell taken with Spell Qu
 ### Does Mox Amber tap for mana if I +1 Oko on their only Legendary permanent??
 
 <p float="left">
-  <img src="https://img.scryfall.com/cards/large/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1562736914" width="22%" height="22" />
+  <img src="https://img.scryfall.com/cards/large/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1562736914" width="22%" height="22%" />
   <img src="https://img.scryfall.com/cards/large/front/c/2/c2462fdf-a594-47d0-8e10-b55901e350d9.jpg?1572300417" width="22%" height="22%" /> 
   <img src="https://img.scryfall.com/cards/large/front/f/4/f480df6d-e227-4ccb-ad6d-a4ad48a360ad.jpg?1562201599" width="22%" height="22%" />                                                                                                               <img src="https://img.scryfall.com/cards/large/front/3/4/3462a3d0-5552-49fa-9eb7-100960c55891.jpg?1574073631" width="22%" height="22%" />
 </p>
