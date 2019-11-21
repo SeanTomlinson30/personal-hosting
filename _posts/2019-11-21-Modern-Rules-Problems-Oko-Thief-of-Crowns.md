@@ -51,18 +51,18 @@ Explanation: So, what’s going on here? Oko’s +1 ability sets up a continuous
 
 See comprehensive rule 613.1 for a full digest, but in short, continuous effects are applied in a series of layers in the following order: 
 
-Layer 1: Copy effects.
-Layer 2: Control-changing effects. 
-Layer 3: Text-changing effects.
-Layer 4: Type-changing effects.
-Layer 5: Color-changing effects. 
-Layer 6: Ability-adding effects, ability-removing effects.
-Layer 7: Power- and/or toughness-changing effects. 
-Sub-layer A: Effects from Power/Toughness affecting CDAs.
-Sub-layer B: Any Power/Toughness setting effects.
-Sub-layer C: Any Power/Toughness changing effect that doesn’t set.
-Sub-layer D: P/T changes from Counters.
-Sub-layer E: Effects that switch P/T.
+* Layer 1: Copy effects.
+* Layer 2: Control-changing effects. 
+* Layer 3: Text-changing effects.
+* Layer 4: Type-changing effects.
+* Layer 5: Color-changing effects. 
+* Layer 6: Ability-adding effects, ability-removing effects.
+* Layer 7: Power- and/or toughness-changing effects. 
+  * Sub-layer A: Effects from Power/Toughness affecting CDAs.
+  * Sub-layer B: Any Power/Toughness setting effects.
+  * Sub-layer C: Any Power/Toughness changing effect that doesn’t set.
+  * Sub-layer D: P/T changes from Counters.
+  * Sub-layer E: Effects that switch P/T.
 
 The ability printed on Magus of the Moon is dealt with in Layer 4. It changes the type of non-basic lands to Mountain. The +1 ability of Oko is dealt with in multiple layers. The ability makes the target an Elk in Layer 4 (the same time Magus is applying), green in Layer 5, ability-less in Layer 6 and finally a 3/3 in Layer 7. So, when Magus is applying its effect, it’s an Elk but hasn’t had its ability removed yet.
 
