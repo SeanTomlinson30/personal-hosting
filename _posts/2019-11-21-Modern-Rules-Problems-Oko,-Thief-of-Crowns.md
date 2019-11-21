@@ -1,3 +1,8 @@
+---
+layout: post
+title: Testing
+---
+
 # Modern Rules Problems – Oko, Thief of Crowns
 Sean Tomlinson - L1 Judge
 
