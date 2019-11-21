@@ -66,7 +66,7 @@ Sub-layer E: Effects that switch P/T.
 
 The ability printed on Magus of the Moon is dealt with in Layer 4. It changes the type of non-basic lands to Mountain. The +1 ability of Oko is dealt with in multiple layers. The ability makes the target an Elk in Layer 4 (the same time Magus is applying), green in Layer 5, ability-less in Layer 6 and finally a 3/3 in Layer 7. So, when Magus is applying its effect, it’s an Elk but hasn’t had its ability removed yet.
 
-| Reminder | Layer | Effect |
+| Reminder  | Layer  | Effect  |
 | -------- | ----- | ------ |
 | Copy | 1 |  |
 | Control | 2 |  |
@@ -91,7 +91,7 @@ Answer: It will be a green 3/3 Creature - Elk named “Tarmogoyf” with no abil
 
 Explanation: Tarmogoyf has a characteristic defining ability (CDA) which conveys information about its power and toughness. This power and toughness are applied in Layer 7a after Oko would have removed the ability in Layer 6. So, despite Oko’s +1 setting power and toughness in Layer 7b and Tarmogoyf’s CDA applying in Layer 7a before it, Oko’s +1 has removed the CDA in Layer 6.
 
-| Reminder | Layer | Effect |
+| Reminder  | Layer  | Effect  |
 | -------- | ----- | ------ |
 | Copy | 1 |  |
 | Control | 2 |  |
@@ -150,7 +150,7 @@ Answer: Mycosynth Lattice still makes everything an artifact, and all permanent 
 
 Explanation: This is a Layers question again. The key thing to remember throughout this is that Lattice has an earlier timestamp than Oko, meaning that if Lattice and Oko’s +1 are impacting things in the same Layer, Lattice will apply first. So, in Layer 4 Lattice makes all permanents into artifacts, then Oko’s +1 makes Lattice into a creature. Then in Layer 5 Lattice makes all permanents and cards not on the battlefield colorless before Oko’s +1 makes Lattice green. In Layer 6 Oko’s +1 removes Lattice’s abilities (abilities already applied aren’t removed/undone). In Layer 7b Oko’s +1 makes the Lattice creature a 3/3. When all is said and done, you’re left with all permanents and cards not on the battlefield being colorless, except the Lattice which is a green 3/3 Elk with no abilities.
 
-| Reminder | Layer | Effect |
+| Reminder  | Layer  | Effect  |
 | -------- | ----- | ------ |
 | Copy | 1 |  |
 | Control | 2 |  |
