@@ -3,7 +3,7 @@ layout: post
 title: Modern Rules Problems – Oko, Thief of Crowns
 ---
 
-All things weirds with Oko, Thief of Crowns in Modern
+All things weird with Oko, Thief of Crowns in Modern
 
 Sean Tomlinson - L1 Judge
 
@@ -31,7 +31,7 @@ There’s a lot to this ability and it makes for some interesting interactions t
 
 * Effects that modify a creature’s power and/or toughness, such as the effect of Festive Funeral, will apply to the creature no matter when they started to take effect. The same is true for any counters that change its power and/or toughness.
 
-* Oko’s second ability overwrites all colors and creature types the affected creature has. It’s just a green Elk. The creature keeps any supertypes (such as legendary) it has, but loses any other card types it has (such as artifact).
+* Oko’s second ability overwrites all colors and creature types the affected creature has. It’s just a green Elk. The creature keeps any supertypes (such as ary) it has, but loses any other card types it has (such as artifact).
 
 * Oko’s second ability may target a permanent that is only temporarily an artifact or a creature, such as Oko, the Trickster. If this happens, the effect causes that permanent to remain a green Elk creature even after the temporary effect expires.
 
@@ -137,7 +137,7 @@ Explanation: Unlike the previous answer, returning the spell taken with Spell Qu
 
 Answer: Yes
 
-Oko’s +1 ability simply never changes supertypes of permanents. Therefore, although a 3/3 Elk with no abilities, the permanent is still a green Legendary and therefore Mox Amber adds green mana. This also applies to Snow (Arcum’s Astrolabe) and things that count it like Dead of Winter. It’s also worth adding that because the Legend supertype is retained, and so too is the name of the permanent. If you play another card with the same name as another Legendary permanent, which is an Elk due to Oko, you still need to sacrifice one due to the Legend rule.
+Oko’s +1 ability simply never changes supertypes of permanents. Therefore, although a 3/3 Elk with no abilities, the permanent is still a green Legendary and therefore Mox Amber adds green mana. This also applies to Snow (Arcum’s Astrolabe) and things that count it like Dead of Winter. It’s also worth adding that because the Legend supertype is retained, and so too is the name of the permanent. If you play another card with the same name as another Legendary permanent, which is an Elk due to Oko, you still need to remove one due to the Legend rule.
 
 ### What happens if I +1 Oko on a Mycosynth Lattice?
 
